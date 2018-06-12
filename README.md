@@ -1,3 +1,4 @@
+
 # Reverse an Array
 Whiteboard Challenge #1- Reverse an array
 
@@ -6,3 +7,4 @@ Write a function called reverseArray which takes an array as an argument. Withou
 
 ## Solution
 ![](assets/reverse_array.jpg)
+
