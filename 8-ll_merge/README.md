@@ -6,4 +6,4 @@ Write a function called mergeLists which takes two linked lists as arguments. Zi
 ## Solution
 
 
-![](assets/.jpg)
+![](assets/ll_merge.jpg)
