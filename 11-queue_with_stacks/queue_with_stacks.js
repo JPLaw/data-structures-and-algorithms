@@ -8,7 +8,7 @@ function enqStack(element) {
 function deqStack() {
   if (Stack2.length === 0) {
     if (Stack1.length === 0) { 
-       return 'Cannot dequeue because queue is empty'
+       return undefined // queue would be empty
     };
     while (Stack1.length > 0) {
       var p = Stack1.pop();
